@@ -27,3 +27,9 @@ We combined GDELT event data (Global Database of Events, Language and Tone) with
 
 ![Results](../assets/images/4502_graph.png){:width="100%"}
 
+**Object Oriented Casino**
+
+In this project I worked with a partner to make a simulation of a casino with a focus on object oriented principles. We made a successfull casino simulation with logging, npcs who
+bet timidly or agressively as well as casino, player, card deck, and other varied classes that implemented patterns like singleton, observer, factory, and strategy. 
+
+
